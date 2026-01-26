@@ -1,0 +1,14 @@
+Item,Category,Component,Part Number,Manufacturer,Qty,Used In Device,Notes
+1,MCU,XIAO ESP32-C3,102010428,Seeed Studio,2,Both,BLE + main processor
+2,Sensor,Capacitive Soil Moisture Sensor,SEN0193,DFRobot,1,Sensing Device,Analog output to ADC
+3,Sensor,Temp & Humidity Sensor,SHT31-DIS,Sensirion,1,Sensing Device,"I2C, ADDR tied to GND (0x44)"
+4,Motor,Gauge Stepper Motor,X27.168,Switec,1,Display Device,Stepper gauge motor
+5,Driver,Darlington Driver Array,ULN2003A,TI/ST/OnSemi,1,Display Device,Drives X27.168 coils (sink current)
+6,Display,OLED 0.96in 128x64 (I2C),SSD1306,Generic,1,Display Device,I2C address typically 0x3C
+7,LED,Status LED,WS2812B,Generic,1,Display Device,Use with resistor
+8,Button,Tactile Switch,TS-1187A,Generic,1,Display Device,Active-low input with internal pull-up
+9,Passive,Resistor,220ohm,Generic,1,Display Device,LED current limiting
+10,Passive,Resistor,4.7kohm,Generic,2,Both,I2C pull-ups (only if not on breakout boards)
+11,Passive,Capacitor,0.1uF,Generic,4,Both,Decoupling caps near modules
+12,Power,LiPo Battery 3.7V,LiPo 3.7V 1000mAh,Generic,2,Both,Battery-only operation
+13,Connector,JST-PH 2-pin battery connector,JST-PH-2,JST,2,Both,LiPo connector
