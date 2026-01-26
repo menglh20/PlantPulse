@@ -1,0 +1,9 @@
+Reference,Qty,Value,DNP,Exclude from BOM,Exclude from Board,Footprint,Datasheet
+"C1,C2",2,100nF,,,,Capacitor_SMD:C_0402_1005Metric,~
+"C3,C4",2,1uF,,,,Capacitor_SMD:C_0402_1005Metric,~
+D1,1,LED,,,,LED_SMD:LED_0402_1005Metric,~
+J1,1,Header,,,,Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical,~
+"R1,R2",2,4.7k,,,,Resistor_SMD:R_0402_1005Metric,~
+R3,1,1k,,,,Resistor_SMD:R_0402_1005Metric,~
+U1,1,MIC5376-2.8YC5-TR,,,,Package_TO_SOT_SMD:SOT-353_SC-70-5,MIC5376-2.8YC5-TR
+U2,1,BME280,,,,Package_LGA:Bosch_LGA-8_2.5x2.5mm_P0.65mm_ClockwisePinNumbering,https://www.bosch-sensortec.com/media/boschsensortec/downloads/datasheets/bst-bme280-ds002.pdf
