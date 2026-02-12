@@ -4865,6 +4865,18 @@
 		(layer "Edge.Cuts")
 		(uuid "f2ad98f2-5e33-40fb-9013-7fae34c48411")
 	)
+	(gr_text "Linghao Meng"
+		(at 125.5 117.0515 0)
+		(layer "F.SilkS")
+		(uuid "8fb1d966-2b6b-4eeb-8a86-84cc6f03f62d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
 	(segment
 		(start 129.050002 80.624998)
 		(end 128.153306 80.624998)

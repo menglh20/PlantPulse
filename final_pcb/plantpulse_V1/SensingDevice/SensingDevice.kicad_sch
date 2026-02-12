@@ -1279,6 +1279,16 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "Linghao Meng"
+		(exclude_from_sim no)
+		(at 264.668 174.498 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "21e2f1be-b46f-48a5-80be-948dd7ff0122")
+	)
 	(text "PlantPulse Sensing Device"
 		(exclude_from_sim no)
 		(at 226.314 174.498 0)

@@ -2114,6 +2114,16 @@
 		)
 		(uuid "17d57533-0741-44a7-bc3e-56261bfc0940")
 	)
+	(text "Linghao Meng"
+		(exclude_from_sim no)
+		(at 269.24 175.006 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "dce6c96a-a355-4a24-af3f-85b426cb1783")
+	)
 	(junction
 		(at 219.71 124.46)
 		(diameter 0)
