@@ -349,6 +349,17 @@
 			(uuid "ebb5481b-4f84-4095-b5b9-118a74805f58")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/menglh/Desktop/PlantPulse/ref/SSD1306/OLED 128x64.STP"
+			(offset
+				(xyz 34.5 3.5 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
 	)
 	(footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
 		(layer "F.Cu")
@@ -1205,6 +1216,17 @@
 			(uuid "d1281605-0496-42ff-93d7-765bc0f4b83d")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/menglh/Desktop/PlantPulse/ref/TS-1187A-B-A-B/TS-1187A-B-A-B.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "x27:x27_stepper_two_holes"
 		(layer "F.Cu")
@@ -1386,6 +1408,17 @@
 			(uuid "514aae2c-bbc8-4c85-b1c4-9a976139a5c0")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/menglh/Desktop/PlantPulse/ref/x27_Footprint/JST_X27.168_Customer_3D.stp"
+			(offset
+				(xyz -2.5 10 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 90)
+			)
+		)
 	)
 	(footprint "Resistor_SMD:R_0805_2012Metric"
 		(layer "F.Cu")
@@ -2354,6 +2387,17 @@
 			(uuid "5287b834-5233-4fa9-885d-36153c82400a")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/menglh/Desktop/PlantPulse/ref/XIAO_ESP32/Seeed Studio XIAO-ESP32-C3.step"
+			(offset
+				(xyz 6 -2 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 90 180 90)
+			)
+		)
 	)
 	(footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
 		(layer "F.Cu")
@@ -2672,6 +2716,14 @@
 		(uuid "08539aeb-324d-4ab3-b6ea-be1433ace270")
 	)
 	(segment
+		(start 158.423951 96.799)
+		(end 157.779 97.443951)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 1)
+		(uuid "0baca145-e5a4-4cb6-a73e-ca75d0f48ad1")
+	)
+	(segment
 		(start 132.925001 81.274999)
 		(end 134.750001 81.274999)
 		(width 0.2)
@@ -2686,14 +2738,6 @@
 		(layer "F.Cu")
 		(net 1)
 		(uuid "2adf697e-9ad4-42ee-a739-3c25586ad18a")
-	)
-	(segment
-		(start 158.423951 96.799)
-		(end 157.779 97.443951)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 1)
-		(uuid "0baca145-e5a4-4cb6-a73e-ca75d0f48ad1")
 	)
 	(segment
 		(start 157.779 97.443951)
