@@ -2663,18 +2663,29 @@
 		(layer "Edge.Cuts")
 		(uuid "ee7487b3-337d-4568-800f-3d9e5c244b6f")
 	)
-	(gr_text "PlantPulse\nEric \nDisplayDevice"
-		(at 96.35 110.05 0)
-		(layer "F.SilkS")
-		(uuid "ec6a6497-b687-42a5-be3c-613e94f43dca")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.3)
-				(bold yes)
-			)
-			(justify left bottom)
-		)
+	(segment
+		(start 129.050002 80.624998)
+		(end 128.153306 80.624998)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 1)
+		(uuid "08539aeb-324d-4ab3-b6ea-be1433ace270")
+	)
+	(segment
+		(start 132.925001 81.274999)
+		(end 134.750001 81.274999)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 1)
+		(uuid "1dac427b-d80c-471b-9ac5-d84b9c5eb198")
+	)
+	(segment
+		(start 114.479 103.060454)
+		(end 114.479 106.88676)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 1)
+		(uuid "2adf697e-9ad4-42ee-a739-3c25586ad18a")
 	)
 	(segment
 		(start 158.423951 96.799)
