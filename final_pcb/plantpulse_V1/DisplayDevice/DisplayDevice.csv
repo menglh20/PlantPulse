@@ -1,0 +1,8 @@
+Reference,Qty,Value,DNP,Exclude from BOM,Exclude from Board,Footprint,Datasheet
+D1,1,WS2812B,,,,LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm,https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf
+J1,1,SSD1306,,,,ssd1306:128x64OLED,~
+J2,1,LiPo Battery,,,,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical,~
+M1,1,X27.168,,,,x27:x27_stepper_two_holes,~
+"R1,R2,R3,R4",4,47ohm,,,,Resistor_SMD:R_0805_2012Metric,~
+S1,1,TS-1187A-B-A-B,,,,TS1187A:SW_TS-1187A-B-A-B,
+U1,1,SeeedStudio-XIAO-ESP32C3,,,,xiao-esp32-c3:XIAO_ESP32,
